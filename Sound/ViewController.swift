@@ -11,7 +11,9 @@ import AVFoundation
 class ViewController: UIViewController {
     
     @IBOutlet var drumButton:UIButton!
+    
     @IBOutlet var pianoButton:UIButton!
+    
     @IBOutlet var guitarButton:UIButton!
     
     
